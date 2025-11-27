@@ -1,0 +1,1 @@
+IntuneWinAppUtil.exe -c "%~dp0\Paket" -s "%~dp0\Paket\install.ps1" -o "%~dp0"
