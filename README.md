@@ -2,7 +2,7 @@
 
 A Semi-Ready to Deploy Intune Package for BGInfo64 Version 4.33
 
-##Features:
+## Features:
 - Robust Install, Uninstall and Detection Routine
 - Uninstall Routine purges ALL Data
 - Detailed Logs for better debugging
@@ -25,6 +25,8 @@ To Start, change the image to your desired image.
 The Config.bgi contains all the configs for your background. There is also the custom scripts included. 
 
 Please Remember to change the hash summs in the detect.ps1 script. 
+
+Create Intunewin File by running Package.bat
 
 ---
 
